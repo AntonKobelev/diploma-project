@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Корм Cesar",
+    "price": 37.00,
+    "description": "Корм влажный Cesar для собак говядина и овощи в соусе"
+  },
+  {
+    "name": "Корм Royal Canin Savour Exigent",
+    "price": 456.00,
+    "description": "Корм для привередливых кошек старше 1 года Royal Canin Savour Exigent"
+  },
+  {
+    "name": "Корм Grandorf Adult Indoor",
+    "price": 2550.00,
+    "description": "Сухой корм для кошек Grandorf Adult Indoor с ягненком и индейкой"
+  },
+  {
+    "name": "Корм консервированный Grandorf",
+    "price": 190.00,
+    "description": "Корм консервированный Grandorf для кошек, куриная грудка с лососем"
+  }
+]

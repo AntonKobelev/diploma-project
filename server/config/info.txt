@@ -1,0 +1,4 @@
+
+authentication to Mongo DB
+user: antonkobelev
+password: 774-aP-996
