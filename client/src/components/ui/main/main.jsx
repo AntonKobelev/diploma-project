@@ -1,11 +1,13 @@
 import React from "react";
 import Carousel from "./carousel/сarousel";
+import CardsProductsWrapper from "./sidebar/cardsProductsWrapper";
 
 const Main = () => {
   return (
-    <>
-      <Carousel />
-    </>
+      <div className="main">
+          <Carousel />
+          <CardsProductsWrapper/>
+      </div>
   );
 };
 
